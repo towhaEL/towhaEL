@@ -14,7 +14,7 @@
 - 💬 Ask me about Python, Flutter, Deep Learning, or anything tech
 - 🌱 Currently working on real-world mobile apps and ML projects
 - 💼 Open to **internships**, **freelance**, or **collaborative projects**
-- 🌐 Portfolio: [https://towha.dev](https://towha.dev)
+- 🌐 Portfolio: [coming soon](Coming soon.)
 - 🎯 Goal: Build impactful software and contribute to open-source
 
 ---
