@@ -1,51 +1,90 @@
-# Hi, I'm Towha Elahi!
+<h1 align="center">Hi there, I'm Towha Elahi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
-Aspiring software engineer and machine learning enthusiast from Dhaka, Bangladesh, currently pursuing a B.Sc. in Computer Science and Engineering from Chittagong University of Engineering & Technology (CUET). I love building applications, working on real-world projects, and exploring new tech!
+<p align="center">
+  <b>A passionate developer from Dhaka, Bangladesh</b><br>
+  <i>"Code. Create. Communicate."</i>
+</p>
 
-## 🔧 Technical Skills
-- **Languages**: C, C++, Python, HTML, CSS, JavaScript, SQL, Dart
-- **Frameworks & Tools**: Flutter, Firebase, PyTorch, TensorFlow, Keras
-- **Concepts**: Object-Oriented Programming, Data Structures & Algorithms, Git, Computer Vision
+---
 
-## 📱 Projects
+## 🚀 About Me
 
-### [VocabFlash](https://github.com/towhaEL/Vocab-Flash)
-*Interactive Vocabulary Learning App*  
-`Flutter`, `Dart`, `Firebase`  
-- Features achievements, streaks, leaderboards, quizzes, and friend challenges
+- 🎓 CSE Undergraduate at **Chittagong University of Engineering & Technology (CUET)**  
+- 🧠 Exploring **Machine Learning**, **Computer Vision**, and **App Development**
+- 💬 Ask me about Python, Flutter, Deep Learning, or anything tech
+- 🌱 Currently working on real-world mobile apps and ML projects
+- 💼 Open to **internships**, **freelance**, or **collaborative projects**
+- 🌐 Portfolio: [https://towha.dev](https://towha.dev)
+- 🎯 Goal: Build impactful software and contribute to open-source
 
-### [AgriPlant](https://github.com/towhaEL/AgriPlant)
-*Agriculture-based Mobile Application*  
-`Flutter`, `Firebase`, `Python`, `TensorFlow`  
-- Crop disease detection using deep learning  
-- Includes user profiles and marketplace
+---
 
-### [2D Platformer Game](https://github.com/towhaEL/PlatformerGame)
-*Python-based Game*  
-`Python`, `Pygame`  
-- Smooth player controls, gravity simulation, and obstacle-based level design
+## 🛠️ Tech Stack
 
-### [Car Resale Value Prediction](https://github.com/towhaEL/Car-Resale-Value-Prediction)
-*ML-Powered Price Estimator*  
-`Python`, `TensorFlow`  
-- Predicts resale prices with a simple Python UI
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-### [FilmWhiz](https://github.com/towhaEL/FilmWhiz)
-*Movie Recommendation Website*  
-`HTML`, `CSS`, `JavaScript`, `Firebase`, `TMDb API`  
-- Offers movie suggestions and fetches real-time data from TMDb
+---
 
-## 🏆 Competitive Programming
-- [Codeforces](https://codeforces.com/profile/Towha.E): `Towha.E`  
-- [CodeChef](https://www.codechef.com/users/towha): `towha`  
-- [LightOJ](https://lightoj.com/user/towha_1904047): `towha_1904047`
+## 🧠 Projects
 
-## 💼 Experience
-- **Industrial Attachment** at *Synesis IT Ltd.* (Dec 2024 – Jan 2025)
-- **Assistant General Secretary** at *CUET Debating Society* (Sep 2024 – Present)
-- **Organizing Secretary** at *CUET Computer Club* (Sep 2024 – Present)
+| Project | Tech Stack | Description |
+|--------|------------|-------------|
+| [**VocabFlash**](https://github.com/towhaEL/Vocab-Flash) | Flutter, Firebase | Vocabulary learning app with quizzes, streaks, and leaderboard |
+| [**AgriPlant**](https://github.com/towhaEL/AgriPlant) | Flutter, Firebase, TensorFlow | Crop disease detection with marketplace & user profile |
+| [**2D Platformer Game**](https://github.com/towhaEL/PlatformerGame) | Python, Pygame | Fun side-scroller game with gravity & collisions |
+| [**Car Resale Value Prediction**](https://github.com/towhaEL/Car-Resale-Value-Prediction) | Python, TensorFlow | Predict resale values of used cars |
+| [**FilmWhiz**](https://github.com/towhaEL/FilmWhiz) | HTML, CSS, JS, TMDb API | Movie recommendation site with personalized ratings |
 
-## 📫 Let's Connect!
-- **Email**: [towhae@gmail.com](mailto:towhae@gmail.com)  
-- **GitHub**: [github.com/towhaEL](https://github.com/towhaEL)  
-- **LinkedIn**: [linkedin.com/in/towhae](https://www.linkedin.com/in/towhae/)
+---
+
+## 💻 Competitive Programming
+
+| Platform | Handle |
+|----------|--------|
+| [Codeforces](https://codeforces.com/profile/Towha.E) | Towha.E |
+| [CodeChef](https://www.codechef.com/users/towha) | towha |
+| [LightOJ](https://lightoj.com/user/towha_1904047) | towha_1904047 |
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=towhaEL&show_icons=true&theme=tokyonight" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=towhaEL&theme=tokyonight" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towhaEL&layout=compact&theme=tokyonight" height="140">
+</p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:towhae@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/towhae"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/towhaEL"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://towha.dev"><img src="https://img.shields.io/badge/Portfolio-12100E?style=for-the-badge&logo=web&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <b>"Stay curious, keep coding, and always be kind."</b>
+</p>
