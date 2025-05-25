@@ -51,29 +51,6 @@
 
 ---
 
-## 💻 Competitive Programming
-
-| Platform | Handle |
-|----------|--------|
-| [Codeforces](https://codeforces.com/profile/Towha.E) | Towha.E |
-| [CodeChef](https://www.codechef.com/users/towha) | towha |
-| [LightOJ](https://lightoj.com/user/towha_1904047) | towha_1904047 |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=towhaEL&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=towhaEL&theme=tokyonight" height="170">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=towhaEL&layout=compact&theme=tokyonight" height="140">
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
